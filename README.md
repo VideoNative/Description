@@ -246,3 +246,5 @@ image 标签上 ImageUrl 的表达式，Image Dom 将表达式扔到数据源中
   
     ![](vrss.png)
 
+### 文档
+我们提供了一份指导文档供开发者接入和查询：[VideoNative 文档](https://videonative.github.io/VideoNative)
